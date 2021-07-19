@@ -1,7 +1,7 @@
 
 <div align='center'>
 
-  # A-Start-path-finding visualizer
+  # A-Star-path-finding visualizer
 
 </div>
 
