@@ -1,8 +1,8 @@
 import pygame
 from typing import List
 
-from algo import AlgorithmAStar
-from gui import GuiManager, Cell, MazeDensity
+from astar.algo import AlgorithmAStar
+from astar.gui import GuiManager, Cell, MazeDensity
 
 
 class Driver:
