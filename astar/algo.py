@@ -1,6 +1,6 @@
 import time
 from typing import Callable, List
-from gui import Cell
+from .gui import Cell
 from queue import PriorityQueue
 
 
